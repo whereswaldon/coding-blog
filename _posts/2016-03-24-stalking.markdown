@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Stalking"
+date:   2016-03-21 6:57pm
+categories: jekyll update
+---
+
+It's a strange day in college when you are asked to discover
+any information that you can about a few of your classmates
+purely through search engines. As an advocate of internet
+privacy, it actually made me pretty uncomfortable to be
+digging through the byproduct data of online behavioral
+surviellance.
+
+I had to hunt for data on two classmates in particular, and
+I had the bad luck to be given two very digitial-footprint-conscious
+individuals to "stalk." I was able to find property records,
+hometowns, and physical addresses based soley upon name and
+facebook town of origin. Several sites offered to sell me
+more complete information (phone numbers, income estimates, etc ...),
+but it wasn't worth buying a profile of likely-incorrect information
+just to overachieve on my homework.
+
+Sadly, the two classmates whom I attempted to stalk were absent
+during the class period in which we presented our results, so I
+had no opporunity to check whether the information that I was
+able to find was correct, nor do I know what they were able to
+discover about me (if they did the assignment, which I've never
+asked about).
+
+Overall, the experience taught me that it's fairly easy to find
+out where someone lives if you're dedicated enough to looking.
+Beyond that, the degree to which you can find someone's information
+varies widely based on how conscious they are of dissementating it.
+I'm probably just going to continue my policy of minimal social media,
+which hopefully protects my data from getting out there in the first place.
