@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Snowden and Citizenfour"
+date:   2016-03-30 6:57pm
+categories: jekyll update
+---
+
+Of every film that I've been forced to sit through in a college
+class, I think that CITIZENFOUR may have had the most profound
+effect upon my future. To be honest, I knew practically nothing
+about Edward Snowden or his revelations before seeing the film.
+I'd heard it discussed, but it seemed political (is he a
+traitor/were his actions treason?) to me, and I avoid political
+conversation as a rule.
+
+As I watched, I was struck by the profound courage of an
+ordinary citizen who discovered horrifying truths. I have no
+idea how I would react under such circumstances, but the fact
+that he chose to come forward and to release that information
+speaks to me of a kind of honor that I think is all too rare
+in our culture.
+
+I was also struck by Snowden's caution. He went to incredible
+lengths to arrange his meetings with journalists without
+compromising himself or his family. While watching the film,
+I realized that I don't actually have a sophisticated enough
+understanding of modern cryptography to do what he did. Even
+if I had something important that I wanted to tell someone in
+secret, I couldn't do it. To this day, that really gets under
+my skin. If I, a relatively technical member of modern society,
+am unable to communicate in a way that is truly secure, how
+much harder must it be for those who do not want to be
+software developers?
+
+This has inspired my current personal research topic: modern,
+cryptographically-secure communication. I want to learn exactly
+how to do what Snowden did. I doubt that I'll ever be in a
+position in which I need the knowledge, but I want to know that
+I have it.
+
+To that end, I've been working to understand RSA and other
+methods of asymmetric encryption. If you're interested in such
+things, a friend sent me a few excellent explanatory videos that
+are worth your time:
+ - [Key Exchange](https://www.youtube.com/watch?v=YEBfamv-_do)
+ - [RSA](https://www.youtube.com/watch?v=wXB-V_Keiu8)
